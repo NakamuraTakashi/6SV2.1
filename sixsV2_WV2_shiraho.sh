@@ -1,0 +1,9 @@
+src/sixsV2.1 < sixsV2_WV2_pan_shiraho.in > output/pan.txt
+src/sixsV2.1 < sixsV2_WV2_b1_shiraho.in > output/b1.txt
+src/sixsV2.1 < sixsV2_WV2_b2_shiraho.in > output/b2.txt
+src/sixsV2.1 < sixsV2_WV2_b3_shiraho.in > output/b3.txt
+src/sixsV2.1 < sixsV2_WV2_b4_shiraho.in > output/b4.txt
+src/sixsV2.1 < sixsV2_WV2_b5_shiraho.in > output/b5.txt
+src/sixsV2.1 < sixsV2_WV2_b6_shiraho.in > output/b6.txt
+src/sixsV2.1 < sixsV2_WV2_b7_shiraho.in > output/b7.txt
+src/sixsV2.1 < sixsV2_WV2_b8_shiraho.in > output/b8.txt

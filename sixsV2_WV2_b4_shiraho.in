@@ -1,0 +1,16 @@
+0 												(User-defined geometric conditions)
+23.3 136.2 25.6 116.9 9 5 (Solar zenithal angle: 90-meanSunEl, Solar azimuthal angle: meanSunAz, Sensor zenithal angle: 90-meanSatEl, Sensor azimuthal angle: meanSatAz, month, day)
+1 (Tropical)
+0 No Aerosol
+-1 no aerosol flag
+0 (target level)
+-1000 (sensor level)
+1 User's defined filtered function (World View 2; band4)
+0.5825 0.6325
+0.027 0.135 0.389 0.664 0.848 0.900 0.920 0.933 0.940 0.947 0.952 0.966 0.982 0.990 0.992 1.000 0.969 0.759 0.437 0.134 0.031 
+0 Homogeneous surface
+1 (directional effects)
+6 Ocean
+4.4 135 34.5 0.5 Wind speed (in m/s), Azim. of the wind (in degres), Salinity (in ppt), pigment concentration (in mg/m3)
+0 Atm. correction Lambertian
+0 reflectance (negative value)
